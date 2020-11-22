@@ -2,7 +2,10 @@
   "name": "glee",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "slick-carousel": "^1.8.1"
+  },
   "devDependencies": {
     "browser-sync": "^2.26.13",
     "del": "^6.0.0",
